@@ -1,0 +1,20 @@
+body{
+    background-color: cornflowerblue;
+}
+img{
+    width: 150px;
+    height: 150px;
+    border-image: 5px solid black;
+}
+table{
+    margin-left: 25%;
+    margin-top: 60px;
+}
+h1{
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+    font-size: 3em;
+    font-family: Georgia, serif;
+    text-shadow: 2px 2px black;
+}
